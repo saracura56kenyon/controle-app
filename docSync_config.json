@@ -1,5 +1,7 @@
 {
-  "versao": "1.0",
-  "status": "ativo",
-  "mensagem": "Entre em contato com o Administrador: crearestudiotec@gmail.com"
+  "DocSync": {
+    "versao": "1.0",
+    "status": "ativo",
+    "mensagem": "Favor, entrar em contato com o Administrador: crearestudiotec@gmail.com"
+  }
 }
